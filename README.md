@@ -33,4 +33,3 @@ Power BI Services<br>
 Advance Excel<br>
 Email<br>
 
-**Result:** <br>
